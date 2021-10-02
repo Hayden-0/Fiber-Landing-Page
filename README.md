@@ -6,4 +6,6 @@ It took me 3 attempts to finish this project as I kept restarting it as I learne
 
 I used SASS to keep my complied css clean and easy to read.
 
-If you would like to take a look at this project you can find it hosted on GitHub Pages Here: https://hayden-0.github.io/Fiber-Landing-Page/
+If you would like to take a look at this project you can find it hosted on GitHub Pages Here: 
+
+https://hayden-0.github.io/Fiber-Landing-Page/
